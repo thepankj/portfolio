@@ -76,4 +76,4 @@ I have done my Bachelors in Mathematics and am interested in anything that is ma
 
 I have varied interests which includes sketching, cryptocurrencies, trading, food and the world in general.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
