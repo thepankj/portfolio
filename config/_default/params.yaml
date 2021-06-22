@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: minimal
+theme: forest
 day_night: true
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: unofficiopankaj@gmail.com
+#email: unofficiopankaj@gmail.com
 #phone: 888 888 88 88
 address:
   #street: 450 Serra Mall
@@ -105,7 +105,7 @@ abstract_length: 135
 plugins_js: []
 avatar:
   gravatar: false
-  shape: circle
+  shape: oval
 publications:
   date_format: January 2006
   citation_style: apa

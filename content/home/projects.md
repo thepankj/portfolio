@@ -13,7 +13,7 @@ headless: true
 weight: 30
 
 title: Projects
-subtitle: ''
+subtitle: "Some projects I've worked on"
 
 content:
   # Page type to display. E.g. project.
@@ -30,8 +30,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Machine Learning
+    tag: Machine Learning
   - name: Deep Learning
     tag: Deep Learning
+  - name: NLP
+    tag: NLP
   - name: Other
     tag: Demo
 
@@ -44,8 +48,8 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 5
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  flip_alt_rows: true
 ---
