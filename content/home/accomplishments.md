@@ -13,7 +13,7 @@ headless: true
 weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Certifications'
+title: 'Accomplishments'
 subtitle:
 
 # Date format
@@ -42,35 +42,6 @@ item:
   organization_url: https://nptel.ac.in/
   title: Deep Learning
   url: ""
-
-- certificate_url: https://www.coursera.org/account/accomplishments/certificate/BB4HWFPGPHV8
-  date_end: ""
-  date_start: "2020-07-03"
-  description: ""
-  organization: IBM
-  organization_url: https://www.coursera.com
-  title: 'Data Analysis with Python'
-  url: ""
-
-- certificate_url: https://www.coursera.org/account/accomplishments/certificate/9VC3QAS88PPN
-  date_end: ""
-  date_start: "2020-07-26"
-  description: ""
-  organization: UC Davis
-  organization_url: https://www.coursera.com
-  title: 'SQL for Data Science'
-  url: ""
-  
-
-- certificate_url: https://drive.google.com/file/d/1qTBZsBNx9GRCpS0-ReKTaH9TRJlhB1Zm/view
-  date_end: "2020-04-01"
-  date_start: "2020-07-30"
-  description: "Took part in the Summer Analytics program of IITG and Capstone Project"
-  organization: IITG
-  organization_url: http://www.iitg.ac.in/sa/caciitg/
-  title: 'IITG Summer Analytics'
-  url: ""
-  
 
 design:
   columns: '2' 
