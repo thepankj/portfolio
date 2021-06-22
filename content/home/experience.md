@@ -31,13 +31,15 @@ experience:
     company_logo: tcs
     location: India
     date_start: '2021-02-22'
-    date_end: ''
+    date_end: '2021-06-22'
     description: |2-
+        Worked on an NLP project, specifically a question-answering chatbot, wherein I had to test and compare different models like BERT, LSTM and POS tagging to extract entities and return the answer to the given question.
+        
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Analysing the dataset
+        * Visualization and data exploration
+        * Modelling and comparing the results
 
 design:
   columns: '2'
