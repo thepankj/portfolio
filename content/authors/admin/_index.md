@@ -50,6 +50,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/thepankj/
+- icon: medium
+  icon_pack: fab
+  link: https://medium.com/@thepankj/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/thepankj/
