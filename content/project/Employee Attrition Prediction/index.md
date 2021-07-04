@@ -20,13 +20,13 @@ image:
 links:
 - icon: ipynb
   #icon_pack: 
-  name: View IPYNB Notebook
-  url: https://github.com/thepankj/Employee-Attrition-Prediction/blob/master/employee-attrition-prediciton.ipynb
+  name: View IPYNB
+  url: https://www.kaggle.com/pnkjgpt/employee-attrition-prediciton
   
 - icon: ipynb
   #icon_pack: 
-  name: View on Kaggle
-  url: https://www.kaggle.com/pnkjgpt/employee-attrition-prediciton
+  name: View on GitHub
+  url: https://github.com/thepankj/Employee-Attrition-Prediction/
 
 url_code: ""
 url_pdf: ""
